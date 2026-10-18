@@ -8,8 +8,9 @@
     {
       "@id": "https://repolex.ai/r/jaraco/autocommand/commit/9d95de8ad227a76604a9205b5b211bc2a0576e91",
       "git:hexsha": "9d95de8ad227a76604a9205b5b211bc2a0576e91",
-      "repolex:parseStatus": "ast_complete",
-      "git:tagName": "2.2.2"
+      "repolex:parseStatus": "parsed",
+      "git:tagName": "2.2.2",
+      "repolex:parsedAt": "2026-10-18T09:32:57.536801+00:00"
     },
     {
       "@id": "https://repolex.ai/r/jaraco/autocommand/commit/ccfc6d2e9f9b7b465fa28788af2d3e0fcc2a2bbe",
