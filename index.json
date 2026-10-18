@@ -1,0 +1,11 @@
+{
+  "org": "jaraco",
+  "repo": "autocommand",
+  "versions": [
+    {
+      "commit": "9d95de8ad227a76604a9205b5b211bc2a0576e91",
+      "tag": "2.2.2",
+      "parsed_at": "2026-10-18T09:32:57.537290+00:00"
+    }
+  ]
+}
