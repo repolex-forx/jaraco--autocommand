@@ -1,0 +1,39 @@
+{
+  "@context": "https://repolex.ai/ontology/jsonld-context/repolex-context.jsonld",
+  "@id": "https://repolex.ai/r/jaraco/autocommand/commit/9d95de8ad227a76604a9205b5b211bc2a0576e91",
+  "@type": "git:Commit",
+  "git:hexsha": "9d95de8ad227a76604a9205b5b211bc2a0576e91",
+  "repolex:repository": {
+    "@id": "https://repolex.ai/r/jaraco/autocommand"
+  },
+  "repolex:graphFile": [
+    {
+      "@type": "repolex:GraphFile",
+      "repolex:graphType": "filetree",
+      "repolex:graphFilePath": "filetree/9d95de8ad227a76604a9205b5b211bc2a0576e91.nq.gz",
+      "repolex:graphFileSize": 3914
+    },
+    {
+      "@type": "repolex:GraphFile",
+      "repolex:graphType": "commit",
+      "repolex:graphFilePath": "commit/commit.nq.gz",
+      "repolex:graphFileSize": 67847
+    },
+    {
+      "@type": "repolex:GraphFile",
+      "repolex:graphType": "branch",
+      "repolex:graphFilePath": "branch/branch.nq.gz",
+      "repolex:graphFileSize": 1159
+    },
+    {
+      "@type": "repolex:GraphFile",
+      "repolex:graphType": "tag",
+      "repolex:graphFilePath": "tag/tag.nq.gz",
+      "repolex:graphFileSize": 863
+    }
+  ],
+  "repolex:parseStatus": "metadata_complete",
+  "repolex:parsedAt": "2026-10-18T09:30:26.126571+00:00",
+  "repolex:parserVersion": "0.1.10",
+  "git:tagName": "2.2.2"
+}
